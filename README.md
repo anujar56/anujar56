@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Anuj Bendale I am a Linux Engineer
+
+I am obsessed with automation, Basically I am talking about scripts.
+
+My Main tech stack  Linux, containerd, AWS, and Prometheus
